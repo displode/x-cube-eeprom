@@ -1,6 +1,6 @@
 {
   "name": "@displode/x-cube-eeprom-xpack",
-  "version": "0.1.0-s4.0.0",
+  "version": "0.1.1-s4.0.0",
   "description": "A source xPack for X-CUBE-EEPROM",
   "main": "",
   "repository": "github:displode/x-cube-eeprom",
