@@ -1,0 +1,33 @@
+{
+  "name": "@displode/x-cube-eeprom-xpack",
+  "version": "0.1.0-s4.0.0",
+  "description": "A source xPack for X-CUBE-EEPROM",
+  "main": "",
+  "repository": "github:displode/x-cube-eeprom",
+  "bugs": {
+    "url": "https://github.com/displode/x-cube-eeprom/issues"
+  },
+  "homepage": "https://github.com/displode/x-cube-eeprom",
+  "keywords": [
+    "xpack"
+  ],
+  "author": {
+    "name": "displode",
+    "email": "info@displode.com",
+    "url": "https://github.com/displode"
+  },
+  "contributors": [
+    {
+      "name": "STMicroelectronics",
+      "url": "https://www.st.com/en/embedded-software/x-cube-eeprom.html"
+    }
+  ],
+  "license": "MCD-ST Liberty SW License Agreement V2.pdf",
+  "xpack": {
+    "minimumXpmRequired": "0.14.0"
+  },
+  "files": [
+    "MCD-ST Liberty SW License Agreement V2.pdf",
+    "Middlewares/ST/EEPROM_Emul/"
+  ]
+}
