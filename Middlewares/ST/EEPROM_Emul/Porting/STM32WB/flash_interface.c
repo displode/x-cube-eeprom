@@ -20,7 +20,9 @@
 /* Includes ------------------------------------------------------------------*/
 #include "eeprom_emul.h"
 #include "flash_interface.h"
+/* Displode Override: Library should not be hardcoded against nucleo board
 #include "stm32wbxx_nucleo.h"
+*/
 
 /** @addtogroup EEPROM_Emulation
   * @{
